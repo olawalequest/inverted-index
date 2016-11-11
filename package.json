@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/olawalequest/inverted-index/issues"
   },
-  "homepage": "https://github.com/olawalequest/inverted-index#readme"
+  "homepage": "https://github.com/olawalequest/inverted-index#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
